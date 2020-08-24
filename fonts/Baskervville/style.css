@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'Baskervville';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/Erik/Desktop/Newedge%20Web/fonts/Baskervville/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Baskervville';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/Erik/Desktop/Newedge%20Web/fonts/Baskervville/italic.ttf') format('truetype');
+}
